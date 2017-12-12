@@ -13,10 +13,10 @@
 
 import HeaderComponent from "./Header";
 import SwiperComponent from "./Swiper";
-import ShiserComponent from "./Shi";//石文渊
-import ListitemComponent from './Listitem';//路雪缘
-import MpXwkcotaintList from "./Xwklist";//徐文凯
-import weekList from './weekList';//赵振平
+import ShiserComponent from "./Shi";
+import ListitemComponent from './Listitem';
+import MpXwkcotaintList from "./Xwklist";
+import weekList from './weekList';
 
 
 export default {
